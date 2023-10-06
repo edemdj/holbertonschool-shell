@@ -1,2 +1,2 @@
 #!/bin
-pwd
+cd
