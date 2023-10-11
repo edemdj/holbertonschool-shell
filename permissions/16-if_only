@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=guillaume permissions hello
+chown vincent:guillaume
