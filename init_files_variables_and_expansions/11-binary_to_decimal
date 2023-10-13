@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ibase=2; $@" | tr -s ' ' ';' | bc
+$ echo "ibase=2; $@" | tr -s ' ' ';' | bc
